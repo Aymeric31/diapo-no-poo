@@ -1,0 +1,18 @@
+// Dans un fichier texte (JSON), décrivez une liste de photos ( titre et url), puis chargez le
+//  et utilisez le pour faire défiler automatiquement les photos dans une img.
+{
+	"Diaporama": [
+		{	
+			"image": "image1",
+			"link": "img/satelite-orbit.jpg"
+		},
+		{
+			"image": "image2",
+			"link": "img/andromeda-orbit.jpg"
+		},
+		{
+			"image": "image3",
+			"link": "img/launch-orbit.jpg"
+		}
+	]
+}
